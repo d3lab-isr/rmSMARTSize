@@ -2,7 +2,7 @@
 Companion code for "Sample size considerations for comparing dynamic treatment regimens in a sequential multiple-assignment randomized trial with a continuous longitudinal outcome"
 
 ## Usage Note
-The code in this repository is in active development. To view or use stable code, see the appropriate releases:
+The code in this repository is a fork of a [repo in active development](github.com/nseewald1/rmSMARTsize). To view or use stable code, see the appropriate releases:
 - [v1.0.0](../../releases/tag/v1.0.0): Release accompanying initial submission to _Statistical Methods in Medical Research_.
 
 ## File Descriptions
